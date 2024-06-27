@@ -31,10 +31,10 @@ Welcome to my GitHub profile! I'm a backend developer committed to improving mys
 
 
 ### Tools & Technologies
-- **Docker** 🐳
-- **Git** 🔄
 - **PostgreSQL** 🐘
+- **Git** 🔄
 - **Linux** 🐧
+- **Docker** 🐳
 
 ---
 
